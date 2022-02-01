@@ -1,0 +1,97 @@
+#### PRISON ARCHITECT ITEM ID'S ####
+
+
+1 - None
+2 - Baton
+3 - Cigar
+4 - Glass Shank
+5 - Knife
+6 - Fork
+7 - Magnum
+8 - Spoon
+9 - Needle
+10 - Medicine
+11 - Scissors
+12 - Alcohol
+13 - Poison
+14 - Cigs
+15 - Saw
+16 - Jail keys
+17 - Cellphone
+18 - Lighter
+19 - Screwdriver
+20 - Drugs
+21 - Shears
+22 - Mop
+23 - Rake
+24 - Hose
+25 - Spatula
+26 - Wooden Spoon
+27 - Cleaning Brush
+28 - Hammer
+29 - Clipboard
+30 - Drill
+31 - PianoWire
+32 - Shotgun
+33 - equipment_Iron            ( Iron )
+34 - Money Bag
+35 - Dog Leash
+36 - equipment_DogBite 	       ( None )
+37 - Taser
+38 - Guard Uniform
+39 - equipment_PrisonerUniform ( Prison Outfit )
+40 - Stab Vest
+41 - equipment_Torch 	       ( Flashlight )
+42 - Rifle
+43 - Axe
+44 - Spade
+45 - Assault Rifle
+46 - equipment_SubMachineGun   ( Mini-Uzi )
+47 - Wooden Pickaxe
+48 - equipment_BatteringRam    ( Battering Ram )
+49 - equipment_Megaphone       ( Megaphone )
+50 - equipment_Book	       ( Book )
+51 - equipment_BookClosed      ( Closed Book )
+52 - Cb Radio		       ( Walkie-Talkie )
+53 - Magazine
+54 - equipment_Snack	       ( Snack )
+55 - equipment_Soap	       ( Soap )
+56 - equipment_Photo	       ( None )
+57 - equipment_Microphone      ( Microphone )
+58 - Strike Placard
+59 - Rope
+60 - Fountain Pen
+61 - Gold Pocket Watch
+62 - Sedative Shot (Syringe)   ( Firearm which deals no damage )
+63 - Sedative (Syringe)        ( Syringe found in Infirmary )
+64 - Contraband                ( Unknown, likely what guards carry after confiscating items )
+65 - equipment_GarbageBag      ( Garbage Bag )
+66 - equipment_Crate           ( Crate )
+67 - equipment_LogPile         ( Log Pile )
+68 - equipment_Box             ( Cardboard Box )
+69 - equipment_PrisonerIco     ( Prisoner Icon )
+70 - equipment_Brick           ( Stack of Bricks )
+71 - equipment_MailUnsorted    ( Unsorted Mail )
+72 - equipment_Visitor         ( Visitor Icon )
+73 - equipment_Export          ( Export )   
+74 - equipment_Food            ( Box of Ingredients )
+75 - equipment_HeliIco         ( Helipad Icon )
+76 - equipment_DockIco         ( Dock Icon )
+77 - equipment_Blank           ( None )
+78 - equipment_RoadIco         ( Road Icon )
+79 - Trowel
+80 - Hand Fork
+81 - Watering Can
+82 - Drugs
+83 - Orange
+84 - Drink
+85 - Kicker
+86 - Booze Bag
+87 - Produced Drugs
+88 - Produced Booze
+89 - Booze Ingredient
+90 - Whisk
+91 - Rolling Pin
+92 - Pistol
+93 - AK-47
+94 - Tactical Sniper Rifle
